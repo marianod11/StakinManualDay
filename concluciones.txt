@@ -1,0 +1,9 @@
+1) entrada de dinero (ECHO)=> ingreso de dinero todos los dias.
+
+2)reparto de comision diaria (echo/resolver bug) => todos los dias.
+
+3) solicitar retiro (echo) => todos los dias.
+
+4)resto de pendiente(falla cuando solicitan dinero y un pago no ha transcurrido las "60" horas) despues anda bien.
+
+5)pago de dinero(echo).
